@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#1976D2">RSiervo</span>!
+# Hi, I'm <span style="color:#1976D2">RSiervo</span>!
 
 **Developer & Network Administrator**  
 <i>Learning new technologies is my hobby.</i>
